@@ -1,5 +1,4 @@
 opencv-python
-torch
 ninja
 numpy 
 pandas
@@ -8,3 +7,7 @@ matplotlib
 scipy
 scikit-image
 plyfile
+configargparse
+kornia
+importlib_metadata
+tensorboard
