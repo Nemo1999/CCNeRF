@@ -11,3 +11,4 @@ configargparse
 kornia
 importlib_metadata
 tensorboard
+lpips
